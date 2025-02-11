@@ -1,5 +1,5 @@
-# SelfHost-DL
-SelfHost-DL is my project that lets users self-host a simple web downloader with minimal setup. Just run it with Node.js—no third-party services needed. Deploy the files, start the server, and download content easily. Perfect for a lightweight, self-managed solution.
+# Tiktok-Downloader
+Tiktok is my project that lets users self-host a simple web downloader with minimal setup. Just run it with Node.js—no third-party services needed. Deploy the files, start the server, and download content easily. Perfect for a lightweight, self-managed solution.
 
 
 ## Supported Platforms
@@ -45,7 +45,7 @@ When using Vercel deployment, please note that there are limitations: maximum fi
 #### Steps
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/rdmistra/selfhost-dl.git
+   git clone https://github.com/RasstCrypt/tt-downloader
    
    ```
 2. **Install dependencies:**  
