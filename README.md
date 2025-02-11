@@ -19,7 +19,7 @@ SelfHost-DL is my project that lets users self-host a simple web downloader with
 
 ## Screenshot
 ### Web Interface Example
-![Web Interface](https://raw.githubusercontent.com/rdmistra/selfhost-dl/main/img/image.png)
+![Web Interface](https://github.com/RasstCrypt/tt-downloader/blob/main/img/image.png)
 
 ## Deployment Options
 
@@ -28,7 +28,7 @@ SelfHost-DL is my project that lets users self-host a simple web downloader with
 ### 1. Vercel Deployment (Easiest)
 1. Click the "Deploy" button
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frdmistra%2Fselfhost-dl)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FRasstCrypt%2Ftt-downloader)
 
 2. Login/Register to Vercel if needed
 3. Wait for automatic deployment
@@ -46,7 +46,7 @@ When using Vercel deployment, please note that there are limitations: maximum fi
 1. **Clone the repository:**  
    ```sh
    git clone https://github.com/rdmistra/selfhost-dl.git
-   cd selfhost-dl
+   
    ```
 2. **Install dependencies:**  
    ```sh
