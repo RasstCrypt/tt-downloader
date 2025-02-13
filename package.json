@@ -1,7 +1,7 @@
 {
-    "name": "selfhost-dl",
+    "name": "rast-tt",
     "version": "1.0.0",
-    "description": "SelfHost-DL is my project that lets users self-host a simple web downloader with minimal setup. Just run it with Node.js—no third-party services needed. Deploy the files, start the server, and download content easily. Perfect for a lightweight, self-managed solution.",
+    "description": "rast-tt is my project that lets users self-host a simple web downloader with minimal setup. Just run it with Node.js—no third-party services needed. Deploy the files, start the server, and download content easily. Perfect for a lightweight, self-managed solution.",
     "main": "server.js",
     "scripts": {
         "start": "node server.js",
@@ -25,10 +25,10 @@
     "license": "Apache-2.0",
     "repository": {
         "type": "git",
-        "url": "https://github.com/rdmistra/selfhost-dl.git"
+        "url": "https://github.com/RasstCrypt/tt-downloader.git"
     },
     "bugs": {
-        "url": "https://github.com/rdmistra/selfhost-dl/issues"
+        "url": "https://github.com/RasstCrypt/tt-downloader/issues"
     },
-    "homepage": "https://github.com/rdmistra/selfhost-dl#readme"
+    "homepage": "https://github.com/RasstCrypt/tt-downloader#readme"
 }

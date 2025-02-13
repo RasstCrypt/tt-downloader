@@ -1,3 +1,5 @@
+
+
 .font-inter {
     font-family: 'Inter', sans-serif;
 }
@@ -94,7 +96,7 @@
 }
 
 ::-webkit-scrollbar-track {
-    background: #f1f1f1;
+    background: #a75858;
 }
 
 ::-webkit-scrollbar-thumb {
